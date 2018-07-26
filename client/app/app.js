@@ -9,7 +9,7 @@ import ngSanitize from 'angular-sanitize';
 import 'angular-socket-io';
 
 import uiRouter from 'angular-ui-router';
-import uiBootstrap from 'angular-ui-bootstrap';
+import uiBootstrap from 'ui-bootstrap4';
 import 'angular-validation-match';
 
 import {
